@@ -4,14 +4,60 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-| Home | Products | Cart | Admin Dashboard |
-|------|----------|------|-----------------|
-| ![Home](screenshots/home.png) | ![Products](screenshots/products.png) | ![Cart](screenshots/cart.png) | ![Admin](screenshots/admin.png) |
+### 🏠 Home Page
+<img src="Images/homepage.png" width="900"/>
 
 ---
 
+### 👤 User Homepage
+<img src="Images/User-homepage.png" width="900"/>
+
+---
+
+### 👤 User Homepage View 1
+<img src="Images/User-homepage (1).png" width="900"/>
+
+---
+
+### 👤 User Homepage View 2
+<img src="Images/User-homepage (2).png" width="900"/>
+
+---
+
+### 🔐 Login Page
+<img src="Images/Login-page.png" width="900"/>
+
+---
+
+### 🛒 Products Page
+<img src="Images/Products.png" width="900"/>
+
+---
+
+### 🛍️ Cart Page
+<img src="Images/Cart.png" width="900"/>
+
+---
+
+### ➕ Add Product
+<img src="Images/Add Product.png" width="900"/>
+
+---
+
+### ⚙️ Admin Dashboard
+<img src="Images/Admin-page.png" width="900"/>
+
+---
+
+### 👥 Manage Users
+<img src="Images/Admin-Manage users.png" width="900"/>
+
+---
+
+### 📦 Manage Products
+<img src="Images/Products-Manage.png" width="900"/>
 ## 💡 What I Built
 
 A fully functional e-commerce web application from scratch — covering everything from user authentication to order management — with both customer-facing and admin-facing interfaces.
